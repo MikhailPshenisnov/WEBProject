@@ -6,7 +6,7 @@ import requests
 import json
 
 # Различные нужные штуки для работы бота
-BOT_TOKEN = "ODMzMjg4MDM1MjY0MTAyNDIw.YHwJ9Q.zfXR3EuC6_VajWtQIttUOndmIcQ"
+BOT_TOKEN = ""
 WEATHER_URL = "https://api.weather.yandex.ru/v2/forecast/"
 WEATHER_API_KEY = "5daaf3dc-2d98-4b4b-bb36-0a4ebb09b9e1"
 GEOCODER_URL = "http://geocode-maps.yandex.ru/1.x/"
