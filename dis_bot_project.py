@@ -8,7 +8,7 @@ import json
 # Различные нужные штуки для работы бота
 BOT_TOKEN = ""
 WEATHER_URL = "https://api.weather.yandex.ru/v2/forecast/"
-WEATHER_API_KEY = "5daaf3dc-2d98-4b4b-bb36-0a4ebb09b9e1"
+WEATHER_API_KEY = "495bf856-f017-402d-ae2b-ebb581c916c9"
 GEOCODER_URL = "http://geocode-maps.yandex.ru/1.x/"
 GEOCODER_API_KEY = "40d1649f-0493-4b70-98ba-98533de7710b"
 TRANSLATOR_URL = "https://translated-mymemory---translation-memory.p.rapidapi.com/api/get"
