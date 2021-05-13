@@ -401,7 +401,7 @@ class AnatolyBot(commands.Cog):
                 await ctx.send("\n\n".join(answer))
             except Exception:
                 await ctx.send(f"Что-то пошло не так, количество дней должно "
-                               f"быть от 1 до 7 включительно, попробуйте сновы :confused:")
+                               f"быть от 1 до 7 включительно, попробуйте снова :confused:")
 
     # Перемещает пользователя в подраздел "Карты"
     @commands.command(name="maps")
